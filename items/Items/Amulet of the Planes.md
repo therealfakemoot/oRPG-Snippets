@@ -12,7 +12,7 @@ properties:
 ---
 > [!oRPG-Item]
 > # Amulet of the Planes
-> ![[Amulet of the Planes.jpg|Amulet of the Planes]]
+> ![[missingImageScroll01.png|Missing Image]]
 >
 > |  |   |
 > |:--|---|

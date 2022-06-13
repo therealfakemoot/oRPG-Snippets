@@ -12,7 +12,7 @@ properties:
 ---
 > [!oRPG-Item]
 > # Alchemy Jug
-> ![[Alchemy Jug.png|Alchemy Jug]]
+> ![[missingImageScroll01.png|Missing Image]]
 >
 > |  |   |
 > |:--|---|

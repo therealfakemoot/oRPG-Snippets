@@ -12,7 +12,7 @@ properties:
 ---
 > [!oRPG-Item]
 > # Amulet of Proof against Detection and Location
-> ![[Amulet of Proof against Detection and Location.jpg|Amulet of Proof against Detection and Location]]
+> ![[missingImageScroll01.png|Missing Image]]
 >
 > |  |   |
 > |:--|---|

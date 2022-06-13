@@ -12,7 +12,7 @@ properties:
 ---
 > [!oRPG-Item]
 > # Armor of Resistance
-> ![[Armor of Resistance.jpg|Armor of Resistance]]
+> ![[missingImageScroll01.png|Missing Image]]
 >
 > |  |   |
 > |:--|---|

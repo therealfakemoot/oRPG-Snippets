@@ -12,7 +12,7 @@ properties:
 ---
 > [!oRPG-Item]
 > # Amulet of Health
-> ![[Amulet of Health.jpg|Amulet of Health]]
+> ![[missingImageScroll01.png|Missing Image]]
 >
 > |  |   |
 > |:--|---|

@@ -12,7 +12,7 @@ properties: ac_+2
 ---
 > [!oRPG-Item]
 > # Animated Shield
-> ![[Animated Shield.jpg|Animated Shield]]
+> ![[missingImageScroll01.png|Missing Image]]
 >
 > |  |   |
 > |:--|---|

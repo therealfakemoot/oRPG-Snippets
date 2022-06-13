@@ -12,7 +12,7 @@ properties:
 ---
 > [!oRPG-Item]
 > # Apparatus of Kwalish
-> ![[Apparatus of Kwalish.jpg|Apparatus of Kwalish]]
+> ![[missingImageScroll01.png|Missing Image]]
 >
 > |  |   |
 > |:--|---|

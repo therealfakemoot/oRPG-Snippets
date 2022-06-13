@@ -1,0 +1,37 @@
+---
+cssclass: oRPGPage oRPGSpell
+fileType: spell
+spellname: Aura_of_Purity
+school: Abjuration
+level: 4
+castingTime: 1 action
+ritual: false
+components: V
+range: Self (30-foot radius)
+duration: Concentration, up to 10 minutes
+classes: Paladin,
+---
+> [!oRPG-Spell]
+> |Components|
+> |:---:|
+> |![[castingComponents03rinactive.png]] |
+> |![[castingComponents03v.png]] |
+> |![[castingComponents03sinactive.png]] |
+> |![[castingComponents03minactive.png]]|
+
+> [!oRPGAbjuration]
+>#  Aura of Purity
+> Abjuration  (4)
+
+**Casting Time:** 1 action
+**Components:** V
+**Range:** Self (30-foot radius)
+**Duration:**  Concentration, up to 10 minutes
+**Description:**
+Purifying energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. Each nonhostile creature in the aura (including you) can't become diseased, has resistance to poison damage, and has advantage on saving throws against effects that cause any of the following conditions: blinded, charmed, deafened, frightened, paralyzed, poisoned, and stunned.
+
+
+
+**Classes:**  *Paladin, *
+
+
